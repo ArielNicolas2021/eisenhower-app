@@ -1,7 +1,20 @@
-# Vue 3 + Vite
+# Eisenhower App - Control de tareas
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Eisenhower es una aplicación web que permite ordenar las tareas según su importancia y urgencia.
 
-## Recommended IDE Setup
+## Imágenes
 
-- [VS Code](https://code.visualstudio.com/) + [Vue - Official](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (previously Volar) and disable Vetur
+![](./src/assets/eisenhowermobile.png)
+![](./src/assets/eisenhowerdesktop.png)
+
+## Link
+
+- [Visita el sitio web!](https://eisenhowerapp.netlify.app/)
+
+## Construido con
+
+- HTML
+- CSS
+- Javascript
+- Vue.js
+- Node.js
