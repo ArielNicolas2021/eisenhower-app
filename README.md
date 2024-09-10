@@ -4,8 +4,8 @@ Eisenhower es una aplicación web que permite ordenar las tareas según su impor
 
 ## Imágenes
 
-![](./src/assets/eisenhowermobile.png)
-![](./src/assets/eisenhowerdesktop.png)
+![](./src/assets/eisenhowerappmobile.jpeg)
+![](./src/assets/eisenhowerappdesktop.jpeg)
 
 ## Link
 
